@@ -1,5 +1,7 @@
-# ru-translate   <link rel="icon" type="image/png" href="https://tadalo.xyz/rf.png" sizes="192x192">
-Upload the File russian.php in the folder /language 
+# ru-translate   
+Upload the File russian.php in the folder /languages 
+----------------------------------------------------------
+http://codecanyon.net/item/phpsound-music-sharing-platform/9016117?s_rank=4
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
